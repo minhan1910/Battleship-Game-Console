@@ -1,0 +1,3 @@
+﻿  BattleShip.cpp
+E:\learn_CPP_by_makings_game\BattleShip\BattleShip\BattleShip.cpp(678,25): warning C4101: 'orientation': unreferenced local variable
+  BattleShip.vcxproj -> E:\learn_CPP_by_makings_game\BattleShip\x64\Debug\BattleShip.exe
